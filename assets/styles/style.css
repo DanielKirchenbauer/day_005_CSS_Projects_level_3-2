@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    width: 1440px;
+    background-color: lightgrey;
+}
+.left_orientatet {
+    padding-left: 180px;
+    margin-right: auto;
+    margin-bottom: 30px;
+    display: block;
+}
+
+.right_orientatet {
+    margin-top: 100px;
+    padding-left: 504px;
+    margin-right: auto;
+    margin-bottom: 30px;
+    display: block;
+}
+
+main section div article p {
+    text-align: center;
+    margin-top: 20px;
+    width: 1440px;
+}
+.gif {
+margin-left: 180px;
+}
+img {
+    box-sizing: content-box;
+    padding-right: 52px;
+    padding-bottom: 52px;
+    
+}
+.SocialMedia {
+    display:table;
+    margin-right: 100px;
+    margin-left: auto;
+    
+}
